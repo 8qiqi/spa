@@ -1,11 +1,22 @@
 {
-  "name": "spa-demo",
+  "name": "spa2",
   "version": "1.0.0",
-  "description": "",
+  "description": "spa富应用开发",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8qiqi/spa2.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8qiqi/spa2/issues"
+  },
+  "homepage": "https://github.com/8qiqi/spa2#readme"，
+    "devDependencies": {
+      "gitbook-cli": "^2.3.2"             
+    }
 }
